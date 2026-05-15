@@ -17,8 +17,6 @@ This project fine-tunes transformer-based models for binary sentiment classifica
 | BERT-Tiny (`prajjwal1/bert-tiny`) | 87.28% | Main lightweight model |
 | DistilBERT (`distilbert-base-uncased`) | 89.44% | Baseline experiment |
 
-Reported Kaggle test accuracy for the BERT-Tiny run: **89.44%**.
-
 ## Project Structure
 
 ```text
